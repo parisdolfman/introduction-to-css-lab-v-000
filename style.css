@@ -5,8 +5,8 @@ body {
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-  background-color: white;
   width: 700px;
+  background-color: white;
   margin: auto;
   font-family: "Helvetica Neue";
   padding: 30px;
