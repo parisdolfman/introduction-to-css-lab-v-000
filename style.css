@@ -6,8 +6,8 @@ body {
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   width: 700px;
-  background-color: #ffffff;
   margin: auto;
+  background-color: #ffffff;
   font-family: "Helvetica Neue";
   padding: 30px;
 
